@@ -1,12 +1,21 @@
-# React + Vite
+# YouTube Clone 🎥
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A feature-rich YouTube clone built using **React**, **Tailwind CSS**, **Redux**, and the **YouTube Data API v3**. It includes real-time search suggestions, video playback, a live chat simulation, and more.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎬 **Video Listing** (Popular videos via YouTube API)
+- 🔍 **Smart Search** with real-time suggestions
+- 📺 **Watch Page** with full-screen video, details, and chat
+- 💬 **Live Chat** with auto-scrolling and message simulation
+- 📱 **Fully Responsive** design using Tailwind CSS
+- 📁 **Redux Toolkit** for state management (menu toggle, chat, etc.)
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**
+- **Redux Toolkit**
+- **Tailwind CSS**
+- **React Router**
+- **YouTube Data API v3**
+- **Lucide Icons**
