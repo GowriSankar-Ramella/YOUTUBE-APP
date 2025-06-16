@@ -1,0 +1,1 @@
+export const YT_URL = "https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&regionCode=IN&maxResults=50&key=AIzaSyCqdb1hC2kEzc2v9KrWs_g699vS6gXs5O8"
